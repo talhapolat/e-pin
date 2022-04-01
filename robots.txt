@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chipkolikgame.com/sitemap.xml.gz
+Sitemap: http://chipkolikgame.com/sitemap.xml
